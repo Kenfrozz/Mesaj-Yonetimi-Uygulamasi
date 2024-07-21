@@ -51,8 +51,8 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır. Daha fazla bilgi i
 ## İletişim
 
 Herhangi bir sorunuz veya geri bildiriminiz varsa benimle iletişime geçebilirsiniz:
-- **E-posta:** [kenankanat93@gmail.com]
-- **LinkedIn:** [[LinkedIn profil bağlantınız](https://www.linkedin.com/in/kenfroz/)]
+- **E-posta:** kenankanat93@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/kenfroz
 
 ---
 
