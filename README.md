@@ -53,7 +53,3 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır. Daha fazla bilgi i
 Herhangi bir sorunuz veya geri bildiriminiz varsa benimle iletişime geçebilirsiniz:
 - **E-posta:** kenankanat93@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/kenfroz
-
----
-
-Bu `README.md` dosyası, projenizi açık ve düzenli bir şekilde tanıtmak için temel bilgileri sağlar. Herhangi bir ekleme veya değişiklik yapmanız gerekirse bana bildirebilirsiniz!
